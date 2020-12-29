@@ -111,5 +111,5 @@ abstract class BaseRepository implements IBaseRepository
         }
 
         return $model;
-    }   
+    }
 }
